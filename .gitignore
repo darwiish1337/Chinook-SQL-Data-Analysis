@@ -1,0 +1,15 @@
+# Database files
+*.sqlite
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office temporary files
+~$*.pptx
+~$*.docx
+
+# IDE files
+.vscode/
+.idea/
