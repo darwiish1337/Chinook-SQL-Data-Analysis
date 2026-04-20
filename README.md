@@ -83,4 +83,4 @@ Feel free to reach out if you have any questions or would like to discuss the re
 </div>
 
 ---
-<p align="center">Made with ❤️ for precise data insights.</p>
+<p align="center">Made precise data insights.</p>
